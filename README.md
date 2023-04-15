@@ -1,0 +1,2 @@
+# ExPowerBI
+Exercicios Aula 
